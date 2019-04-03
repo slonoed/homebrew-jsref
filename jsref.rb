@@ -1,6 +1,6 @@
 require "language/node"
 
-class SlonoedJsref < Formula
+class Jsref < Formula
   desc "JavaScript refactoring language server"
   homepage "https://github.com/slonoed/jsref#readme"
   url "https://registry.npmjs.org/@slonoed/jsref/-/jsref-0.6.1.tgz"
